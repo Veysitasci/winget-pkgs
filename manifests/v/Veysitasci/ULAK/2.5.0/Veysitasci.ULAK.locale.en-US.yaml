@@ -1,0 +1,29 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: Veysitasci.ULAK
+PackageVersion: 2.5.0
+PackageLocale: en-US
+Publisher: Veysi Taşçı
+PublisherUrl: https://github.com/Veysitasci
+PublisherSupportUrl: https://github.com/Veysitasci/Ulak/issues
+Author: Veysi Taşçı
+PackageName: ULAK
+PackageUrl: https://github.com/Veysitasci/Ulak
+License: MIT
+LicenseUrl: https://github.com/Veysitasci/Ulak/blob/main/LICENSE
+Copyright: Copyright (c) 2026 Veysi Taşçı
+ShortDescription: ULAK - Cyber Security & Network Station for Windows
+Description: ULAK is an all-in-one Network & Cyber Security Station for Windows, providing real-time hardware telemetry, zero-trust firewall control, Wi-Fi hotspot analysis, Bluetooth device profiles, and system diagnostic utilities.
+Moniker: ulak
+Tags:
+  - network
+  - security
+  - station
+  - firewall
+  - wifi
+  - bluetooth
+  - hardware
+  - telemetry
+ReleaseNotesUrl: https://github.com/Veysitasci/Ulak/releases/tag/v2.5.0
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
